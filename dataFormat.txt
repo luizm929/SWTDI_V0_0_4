@@ -1,0 +1,1 @@
+voltage, current, phase, temp, occupancy, power, outlet timestamp, tablet time stamp, main server timestamp, device id
